@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "description": "Elysium",
+  "external_url": "",
+  "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BkMTg2LTAyNy1uYXAuanBn.jpg",
+  "name": "Elysium 4", 
+     "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Shark"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Medium"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Angry"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": 7
+    },
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 12
+    }, 
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1546369800
+    }
+  ]
+}
